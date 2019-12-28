@@ -1,0 +1,25 @@
+{
+  "name": "crash-course-thamisitech",
+  "version": "1.0.0",
+  "description": "Node CC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staten-island-tech/node-crash-course-Thamisitech.git"
+  },
+  "author": "Thami Hamzane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staten-island-tech/node-crash-course-Thamisitech/issues"
+  },
+  "homepage": "https://github.com/staten-island-tech/node-crash-course-Thamisitech#readme",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
